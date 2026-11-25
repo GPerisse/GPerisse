@@ -28,7 +28,6 @@
 <!-- ============ SOBRE ============ -->
 <h2 align="center">👋 Sobre mim</h2>
 
-<img align="right" src="./assets/foto.png" width="230" alt="Guilherme Perissé"/>
 
 Sou **desenvolvedor full-stack e negociador comercial na prática, não só na teoria**. 💡
 
