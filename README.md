@@ -1,27 +1,27 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:3B82F6,100:06B6D4&height=280&section=header&text=Guilherme%20Perissé&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=twinkling&stroke=ffffff&strokeWidth=1&desc=Desenvolvedor%20Full-Stack&descSize=24&descAlignY=60" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4E00,50:FF6B35,100:FFB703&height=280&section=header&text=Guilherme%20Perissé&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=twinkling&stroke=ffffff&strokeWidth=1&desc=Desenvolvedor%20Full-Stack&descSize=24&descAlignY=60" alt="Header" width="100%"/>
 
 <img src="./assets/typing.svg" alt="Guilherme Perissé - Desenvolvedor Full-Stack" width="760"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/guilherme-perisse-17bb4b3b5/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:perisseguilhermeg@gmail.com"><img src="https://img.shields.io/badge/E--mail-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/GPerisse"><img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=GPerisse&label=Visitas&color=7C3AED&style=for-the-badge" />
+<a href="https://www.linkedin.com/in/guilherme-perisse-17bb4b3b5/"><img src="https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:perisseguilhermeg@gmail.com"><img src="https://img.shields.io/badge/E--mail-E85D04?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/GPerisse"><img src="https://img.shields.io/badge/GitHub-FFB703?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=GPerisse&label=Visitas&color=FF6B35&style=for-the-badge" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍_Juiz_de_Fora,_MG-1E1B4B?style=flat-square" />
-<img src="https://img.shields.io/badge/🎓_UFJF_•_8º_período-1E1B4B?style=flat-square" />
-<img src="https://img.shields.io/badge/🌎_Inglês_avançado-1E1B4B?style=flat-square" />
-<img src="https://img.shields.io/badge/💼_Code_Empresa_Júnior-1E1B4B?style=flat-square" />
+<img src="https://img.shields.io/badge/📍_Juiz_de_Fora,_MG-2A1A12?style=flat-square" />
+<img src="https://img.shields.io/badge/🎓_UFJF_•_8º_período-2A1A12?style=flat-square" />
+<img src="https://img.shields.io/badge/🌎_Inglês_avançado-2A1A12?style=flat-square" />
+<img src="https://img.shields.io/badge/💼_Code_Empresa_Júnior-2A1A12?style=flat-square" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./assets/divider.svg" width="100%" height="6">
 
 <!-- ============ SOBRE ============ -->
 <h2 align="center">👋 Sobre mim</h2>
@@ -40,7 +40,7 @@ Curioso, direto ao ponto e sempre aprendendo. 🚀
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./assets/divider.svg" width="100%" height="6">
 
 <!-- ============ STACK ============ -->
 <h2 align="center">🛠️ Minha Stack</h2>
@@ -52,13 +52,13 @@ Curioso, direto ao ponto e sempre aprendendo. 🚀
 <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode&theme=dark" /><br/><br/>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Onshape_(CAD)-1E1B4B?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Metodologias_Ágeis-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Negociação_B2B-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Onshape_(CAD)-3B2418?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Metodologias_Ágeis-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Negociação_B2B-FFB703?style=for-the-badge" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./assets/divider.svg" width="100%" height="6">
 
 <!-- ============ PROJETOS ============ -->
 <h2 align="center">🚀 Projetos em Destaque</h2>
@@ -99,28 +99,28 @@ Projeto em equipe de 4 pessoas, cobrindo toda a interface, com dailys e apresent
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./assets/divider.svg" width="100%" height="6">
 
 <!-- ============ GITHUB ============ -->
 <h2 align="center">📊 Meu GitHub em Números</h2>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GPerisse&theme=radical" height="190" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GPerisse&theme=radical" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GPerisse&theme=gruvbox" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GPerisse&theme=gruvbox" height="190" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GPerisse&theme=radical" height="190" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GPerisse&theme=radical&utcOffset=-3" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GPerisse&theme=gruvbox" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GPerisse&theme=gruvbox&utcOffset=-3" height="190" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GPerisse&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GPerisse&theme=gruvbox&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GPerisse&theme=react-dark&bg_color=0d1117&color=A78BFA&line=7C3AED&point=22D3EE&area=true&area_color=7C3AED&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GPerisse&bg_color=14110F&color=FFB703&line=FF6B35&point=F5EDE3&area=true&area_color=FF6B35&hide_border=true" width="100%" />
 
 <br/>
 
@@ -137,13 +137,13 @@ Tem uma ideia, um problema de negócio ou só quer trocar uma ideia sobre tecnol
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/guilherme-perisse-17bb4b3b5/"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:perisseguilhermeg@gmail.com"><img src="https://img.shields.io/badge/Me_mande_um_e--mail-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/guilherme-perisse-17bb4b3b5/"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:perisseguilhermeg@gmail.com"><img src="https://img.shields.io/badge/Me_mande_um_e--mail-E85D04?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
 <img src="./assets/typing-footer.svg" alt="Código bom resolve o problema certo." width="640"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:7C3AED&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB703,50:FF6B35,100:FF4E00&height=140&section=footer" width="100%"/>
 
 </div>
