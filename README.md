@@ -122,6 +122,10 @@ Projeto em equipe de 4 pessoas, cobrindo toda a interface, com dailys e apresent
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GPerisse&theme=react-dark&bg_color=0d1117&color=A78BFA&line=7C3AED&point=22D3EE&area=true&area_color=7C3AED&hide_border=true" width="100%" />
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/GPerisse/GPerisse/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
+
 </div>
 
 <!-- ============ CONTATO ============ -->
