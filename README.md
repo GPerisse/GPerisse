@@ -1,23 +1,25 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4E00,50:FF6B35,100:FFB703&height=280&section=header&text=Guilherme%20Perissé&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=twinkling&stroke=ffffff&strokeWidth=1&desc=Desenvolvedor%20Full-Stack&descSize=24&descAlignY=60" alt="Header" width="100%"/>
+<img src="./assets/banner.png" alt="Guilherme Perissé - Desenvolvedor Full-Stack" width="100%"/>
+
+<br/>
 
 <img src="./assets/typing.svg" alt="Guilherme Perissé - Desenvolvedor Full-Stack" width="760"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/guilherme-perisse-17bb4b3b5/"><img src="https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:perisseguilhermeg@gmail.com"><img src="https://img.shields.io/badge/E--mail-E85D04?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/GPerisse"><img src="https://img.shields.io/badge/GitHub-FFB703?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=GPerisse&label=Visitas&color=FF6B35&style=for-the-badge" />
+<a href="https://www.linkedin.com/in/guilherme-perisse-17bb4b3b5/"><img src="https://img.shields.io/badge/LinkedIn-3E7CB1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:perisseguilhermeg@gmail.com"><img src="https://img.shields.io/badge/E--mail-6B8E23?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/GPerisse"><img src="https://img.shields.io/badge/GitHub-292A2E?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=GPerisse&label=Visitas&color=6B8E23&style=for-the-badge" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍_Juiz_de_Fora,_MG-2A1A12?style=flat-square" />
-<img src="https://img.shields.io/badge/🎓_UFJF_•_8º_período-2A1A12?style=flat-square" />
-<img src="https://img.shields.io/badge/🌎_Inglês_avançado-2A1A12?style=flat-square" />
-<img src="https://img.shields.io/badge/💼_Code_Empresa_Júnior-2A1A12?style=flat-square" />
+<img src="https://img.shields.io/badge/📍_Juiz_de_Fora,_MG-2B3A2F?style=flat-square" />
+<img src="https://img.shields.io/badge/🎓_UFJF_•_8º_período-2B3A2F?style=flat-square" />
+<img src="https://img.shields.io/badge/🌎_Inglês_avançado-2B3A2F?style=flat-square" />
+<img src="https://img.shields.io/badge/💼_Code_Empresa_Júnior-2B3A2F?style=flat-square" />
 
 </div>
 
@@ -26,7 +28,7 @@
 <!-- ============ SOBRE ============ -->
 <h2 align="center">👋 Sobre mim</h2>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="280" alt="Coding"/>
+<img align="right" src="./assets/foto.png" width="230" alt="Guilherme Perissé"/>
 
 Sou **desenvolvedor full-stack e negociador comercial na prática, não só na teoria**. 💡
 
@@ -52,9 +54,9 @@ Curioso, direto ao ponto e sempre aprendendo. 🚀
 <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode&theme=dark" /><br/><br/>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Onshape_(CAD)-3B2418?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Metodologias_Ágeis-FF6B35?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Negociação_B2B-FFB703?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Onshape_(CAD)-2B3A2F?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Metodologias_Ágeis-3E7CB1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Negociação_B2B-6B8E23?style=for-the-badge" />
 
 </div>
 
@@ -106,21 +108,21 @@ Projeto em equipe de 4 pessoas, cobrindo toda a interface, com dailys e apresent
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GPerisse&theme=gruvbox" height="190" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GPerisse&theme=gruvbox" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GPerisse&theme=nord_dark" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GPerisse&theme=nord_dark" height="190" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GPerisse&theme=gruvbox" height="190" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GPerisse&theme=gruvbox&utcOffset=-3" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GPerisse&theme=nord_dark" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GPerisse&theme=nord_dark&utcOffset=-3" height="190" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GPerisse&theme=gruvbox&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GPerisse&hide_border=true&background=111A15&stroke=2B3A2F&ring=94B22A&fire=E8A33D&currStreakNum=F2EFE6&sideNums=F2EFE6&currStreakLabel=94B22A&sideLabels=8FC1EE&dates=8FC1EE" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GPerisse&bg_color=14110F&color=FFB703&line=FF6B35&point=F5EDE3&area=true&area_color=FF6B35&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GPerisse&bg_color=0A1114&color=8DB3C9&line=8DB3C9&point=A8D08D&area=true&area_color=5E8FA8&hide_border=true" width="100%" />
 
 <br/>
 
@@ -137,13 +139,13 @@ Tem uma ideia, um problema de negócio ou só quer trocar uma ideia sobre tecnol
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/guilherme-perisse-17bb4b3b5/"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:perisseguilhermeg@gmail.com"><img src="https://img.shields.io/badge/Me_mande_um_e--mail-E85D04?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/guilherme-perisse-17bb4b3b5/"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-3E7CB1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:perisseguilhermeg@gmail.com"><img src="https://img.shields.io/badge/Me_mande_um_e--mail-6B8E23?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
 <img src="./assets/typing-footer.svg" alt="Código bom resolve o problema certo." width="640"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB703,50:FF6B35,100:FF4E00&height=140&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt=""/>
 
 </div>
