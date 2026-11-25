@@ -9,17 +9,17 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/guilherme-perisse-17bb4b3b5/"><img src="https://img.shields.io/badge/LinkedIn-3E7CB1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:perisseguilhermeg@gmail.com"><img src="https://img.shields.io/badge/E--mail-6B8E23?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/GPerisse"><img src="https://img.shields.io/badge/GitHub-292A2E?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=GPerisse&label=Visitas&color=6B8E23&style=for-the-badge" />
+<a href="https://www.linkedin.com/in/guilherme-perisse-17bb4b3b5/"><img src="https://img.shields.io/badge/LinkedIn-5E8FA8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:perisseguilhermeg@gmail.com"><img src="https://img.shields.io/badge/E--mail-4A7C59?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/GPerisse"><img src="https://img.shields.io/badge/GitHub-1F3A2E?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=GPerisse&label=Visitas&color=4A7C59&style=for-the-badge" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍_Juiz_de_Fora,_MG-2B3A2F?style=flat-square" />
-<img src="https://img.shields.io/badge/🎓_UFJF_•_8º_período-2B3A2F?style=flat-square" />
-<img src="https://img.shields.io/badge/🌎_Inglês_avançado-2B3A2F?style=flat-square" />
-<img src="https://img.shields.io/badge/💼_Code_Empresa_Júnior-2B3A2F?style=flat-square" />
+<img src="https://img.shields.io/badge/📍_Juiz_de_Fora,_MG-16262B?style=flat-square" />
+<img src="https://img.shields.io/badge/🎓_UFJF_•_8º_período-16262B?style=flat-square" />
+<img src="https://img.shields.io/badge/🌎_Inglês_avançado-16262B?style=flat-square" />
+<img src="https://img.shields.io/badge/💼_Code_Empresa_Júnior-16262B?style=flat-square" />
 
 </div>
 
@@ -54,9 +54,9 @@ Curioso, direto ao ponto e sempre aprendendo. 🚀
 <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode&theme=dark" /><br/><br/>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Onshape_(CAD)-2B3A2F?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Metodologias_Ágeis-3E7CB1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Negociação_B2B-6B8E23?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Onshape_(CAD)-16262B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Metodologias_Ágeis-5E8FA8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Negociação_B2B-4A7C59?style=for-the-badge" />
 
 </div>
 
@@ -118,7 +118,7 @@ Projeto em equipe de 4 pessoas, cobrindo toda a interface, com dailys e apresent
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GPerisse&hide_border=true&background=111A15&stroke=2B3A2F&ring=94B22A&fire=E8A33D&currStreakNum=F2EFE6&sideNums=F2EFE6&currStreakLabel=94B22A&sideLabels=8FC1EE&dates=8FC1EE" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GPerisse&hide_border=true&background=0A1114&stroke=1F3A2E&ring=8DB3C9&fire=A8D08D&currStreakNum=EAF2F0&sideNums=EAF2F0&currStreakLabel=8DB3C9&sideLabels=8DB3C9&dates=AEC0C6" />
 
 <br/><br/>
 
@@ -139,8 +139,8 @@ Tem uma ideia, um problema de negócio ou só quer trocar uma ideia sobre tecnol
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/guilherme-perisse-17bb4b3b5/"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-3E7CB1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:perisseguilhermeg@gmail.com"><img src="https://img.shields.io/badge/Me_mande_um_e--mail-6B8E23?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/guilherme-perisse-17bb4b3b5/"><img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-5E8FA8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:perisseguilhermeg@gmail.com"><img src="https://img.shields.io/badge/Me_mande_um_e--mail-4A7C59?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
